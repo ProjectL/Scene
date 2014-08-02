@@ -51,12 +51,13 @@ JSON representation of a Scene:
 TODO
 ------------
 * Add visuals
-* Focus on what behaviors the TV has. What can it Do?
+* Add description of what a scene is.
+* How does a scene get in the L
 
 
 Repository Goals
 ------------
-
+* Maintain a central place to discuss what a scene is and can become.
 
 
 Contribution
