@@ -4,7 +4,7 @@
 =====
 
 
-JSON representation of a L TV:
+JSON representation of a Scene:
 
 ```json
 {
