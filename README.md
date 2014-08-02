@@ -45,6 +45,7 @@ JSON representation of a Scene:
           }
     }
 }
+```
 
 TODO
 ------------
