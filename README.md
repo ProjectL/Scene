@@ -10,6 +10,7 @@ JSON representation of a Scene:
 {
     "scene": {
         "sceneid": "",
+        "scenetype": "",
         "smsmediaurl": "",
         "smsmediatype": "",
         "smsid": "",
